@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08137832-f3bf-46ca-ab90-cd2c280ca65d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drf/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snippets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
