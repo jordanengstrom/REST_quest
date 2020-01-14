@@ -3,6 +3,7 @@ from rest_framework import serializers
 from .models import Snippet, LANGUAGE_CHOICES, STYLE_CHOICES
 
 
+# Old serializers using `serializers.ModelSerializer`
 class SnippetSerializer(serializers.ModelSerializer):
     owner = serializers.ReadOnlyField(source='owner.username')  # same as using CharField(read_only=True,)
 
